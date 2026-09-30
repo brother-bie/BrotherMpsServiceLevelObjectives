@@ -1,0 +1,11 @@
+C:\Projects\ServiceLevelObjectives\bin\Debug\net8.0\Brother.MPS.ServiceLevelObjectives.deps.json
+C:\Projects\ServiceLevelObjectives\bin\Debug\net8.0\Brother.MPS.ServiceLevelObjectives.dll
+C:\Projects\ServiceLevelObjectives\bin\Debug\net8.0\Brother.MPS.ServiceLevelObjectives.pdb
+C:\Projects\ServiceLevelObjectives\obj\Debug\net8.0\Brother.MPS.ServiceLevelObjectives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ServiceLevelObjectives\obj\Debug\net8.0\Brother.MPS.ServiceLevelObjectives.AssemblyInfoInputs.cache
+C:\Projects\ServiceLevelObjectives\obj\Debug\net8.0\Brother.MPS.ServiceLevelObjectives.AssemblyInfo.cs
+C:\Projects\ServiceLevelObjectives\obj\Debug\net8.0\Brother.MPS.ServiceLevelObjectives.csproj.CoreCompileInputs.cache
+C:\Projects\ServiceLevelObjectives\obj\Debug\net8.0\Brother.MPS.ServiceLevelObjectives.dll
+C:\Projects\ServiceLevelObjectives\obj\Debug\net8.0\refint\Brother.MPS.ServiceLevelObjectives.dll
+C:\Projects\ServiceLevelObjectives\obj\Debug\net8.0\Brother.MPS.ServiceLevelObjectives.pdb
+C:\Projects\ServiceLevelObjectives\obj\Debug\net8.0\ref\Brother.MPS.ServiceLevelObjectives.dll
